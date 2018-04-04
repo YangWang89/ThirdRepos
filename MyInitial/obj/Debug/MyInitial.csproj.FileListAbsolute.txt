@@ -39,3 +39,6 @@ D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyN
 D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
 D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
 D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.pdb
